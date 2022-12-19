@@ -93,10 +93,4 @@ Prototypes for functions written in this project:
   * Upon success, returns the result of the function.
   * Otherwise, prints an en exception error to `stderr` and returns `None`.
 
-* **9. ByteCode -> Python #4**
-  * [102-magic_calculation.py](./102-magic_calculation.py): Python function matching exactly a
-  bytecode provided by Holberton School.
 
-* **10. CPython #2: PyFloatObject**
-  * [103-python.c](./103-python.c): C functions that print basic information
-  about Python lists, bytes, and float objects.
